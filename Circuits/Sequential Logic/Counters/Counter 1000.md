@@ -11,7 +11,7 @@ $b2$: 当实例对象 $b0, b1$ 输出为 $8'b1001\_1001$ 时， $b2$ 的使能�
 
 
 ### Code
-```
+``` verilog
 module top_module (
     input clk,
     input reset,
