@@ -18,7 +18,7 @@ $load$ ：$reset$ 有效时，或计数器为 $Q == 12$ 且可以正常工作 ($
 
 ### Code
 
-```
+``` verilog
 module top_module (
     input clk,
     input reset,
