@@ -1,4 +1,4 @@
-### 题目描述
+### Description
 使用一个 4 位的计数器实现 1-12 的计数器
 
 4 位计数器模块为
@@ -16,7 +16,7 @@ module count4(
 $reset$ ：同步复位，高电平有效
 $load$ ：$reset$ 有效时，或计数器为 $Q == 12$ 且可以正常工作 ($enable == 1$) 
 
-### 通过代码 
+### Code
 
 ```
 module top_module (
