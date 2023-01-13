@@ -29,5 +29,5 @@ module top_module(
 endmodule
 ```
 
-关于阻塞赋值：
+关于非阻塞赋值：
 https://www.cnblogs.com/yuphone/archive/2010/11/10/1874465.html
